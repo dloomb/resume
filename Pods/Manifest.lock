@@ -1,0 +1,19 @@
+PODS:
+  - Cent (5.0.2):
+    - Dollar (~> 5.1.0)
+  - Dollar (5.1.0)
+  - RxSwift (2.6.0)
+
+DEPENDENCIES:
+  - Cent (~> 5.0.2)
+  - Dollar (~> 5.1.0)
+  - RxSwift (~> 2.6.0)
+
+SPEC CHECKSUMS:
+  Cent: b8ac30edd7851255320f2a100585fd61d5807503
+  Dollar: d40032c85eced868f65b86aaede4ef7c093a1bb2
+  RxSwift: 77f3a0b15324baa7a1c9bfa9f199648a82424e26
+
+PODFILE CHECKSUM: 5e4b8bb835305e017e92b1a472f4d3591bf0ac99
+
+COCOAPODS: 1.0.1
